@@ -71,10 +71,10 @@ A aplicação permite que você digite o nome de um Hashira e veja curiosidades 
 ### 📸 Prints da aplicação
 
 Tela inicial:
-![Tela inicial](screenshots/tela_inicial.png)
+![Tela inicial](screenshots/screenshot2.png)
 
 Exemplo de Hashira exibido:
-![Exemplo Hashira](screenshots/exemplo_hashira.png)
+![Exemplo Hashira](screenshots/screenshot1.png)
 
 ---
 
